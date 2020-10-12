@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testshop-ccedc": {
+      "hosting": {
+        "xshop": [
+          "testshop-ccedc"
+        ]
+      }
+    }
+  }
+}
